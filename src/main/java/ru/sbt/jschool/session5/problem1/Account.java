@@ -6,6 +6,7 @@ import java.util.Objects;
  */
 @Table(name = "BANK_ACCOUNTS")
 public class Account {
+
     @Column
     private long clientID;
 
