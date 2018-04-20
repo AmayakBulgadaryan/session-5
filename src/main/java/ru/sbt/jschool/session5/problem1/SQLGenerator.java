@@ -1,12 +1,11 @@
 package ru.sbt.jschool.session5.problem1;
 
-import com.sun.tools.javac.code.TypeAnnotations;
+
 
 import java.lang.annotation.Annotation;
-import java.lang.reflect.AnnotatedType;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
-import java.util.Arrays;
+
 
 /**
  */
